@@ -1,4 +1,1 @@
-alias > README.md
-
-
-echo alias
+my readme
